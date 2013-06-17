@@ -3,13 +3,14 @@
   <groupId>org.ngrinder</groupId>
   <artifactId>ngrinder</artifactId>
   <versioning>
-    <release>3.2</release>
+    <release>3.2.1</release>
     <versions>
       <version>3.1</version>
       <version>3.1.2</version>
       <version>3.1.3</version>
       <version>3.2</version>
+      <version>3.2.1</version>
     </versions>
-    <lastUpdated>20130506075402</lastUpdated>
+    <lastUpdated>20130617012407</lastUpdated>
   </versioning>
 </metadata>
