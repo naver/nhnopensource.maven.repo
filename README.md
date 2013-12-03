@@ -7,7 +7,7 @@ This is nGrinder jars on github
     <repositories>
         <repository>
   	        <id>ngrinder-core</id>
-  	        <url>https://github.com/nhnopensource/nhnopensource.maven.repo/raw/master/{releases/snupshots}</url>
+  	        <url>https://github.com/nhnopensource/nhnopensource.maven.repo/raw/master/{releases/snapshots}</url>
   	    </repository>
   	</repositories>
 
