@@ -1,8 +1,7 @@
-This is nGrinder jars on github
+nhnopensource maven repo
 ==============
- We have created nGrinder jars repository on github.
-
- To use nGrinder released jars you will need to add this line into your project's pom
+ 
+ To use this maven repo, you need to add this line into your project's pom
 
     <repositories>
         <repository>
