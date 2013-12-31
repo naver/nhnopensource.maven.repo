@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.ngrinder</groupId>
-  <artifactId>ngrinder-groovy</artifactId>
+  <artifactId>ngrinder-runtime</artifactId>
   <versioning>
     <versions>
       <version>3.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20131231015053</lastUpdated>
+    <lastUpdated>20131231015048</lastUpdated>
   </versioning>
 </metadata>
